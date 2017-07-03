@@ -1,4 +1,4 @@
-Data Analyssi ReDI Project
+Data Analysis ReDI Project
 
 ==================================
 
